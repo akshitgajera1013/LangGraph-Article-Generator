@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+langchain>=0.1.12
+langgraph>=0.0.26
+langchain-mistralai>=0.0.5
+tavily-python>=0.3.1
+python-dotenv>=1.0.0
