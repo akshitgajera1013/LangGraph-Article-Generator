@@ -6,6 +6,13 @@
 
 Deployment Link :- https://langgraph-article-generator-dzymzqu5rfonszjx6vwywe.streamlit.app/
 
+
+#UI
+
+![Output](images/1.png)
+
+![Output](images/2.png)
+
 An autonomous AI research and writing agent deployed as a clean web application. Powered by **LangGraph**, this agent drafts an article, acts as its own editor to review the content, autonomously searches the live web for missing information, and refines the draft into a final, highly accurate piece.
 
 ## ✨ Core Workflow
